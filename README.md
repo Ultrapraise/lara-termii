@@ -13,7 +13,7 @@ Lara-Termii helps you Set up, test, and manage your Termii integration directly 
 You can install the package via composer:
 
 ```bash
-composer require Ultrapraise/lara-termii
+composer require ultrapraise/lara-termii
 ```
 
 
